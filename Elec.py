@@ -56,13 +56,13 @@ def elec(message):
         bot.send_message(message.chat.id, 'Вариант 12\n''1)E  2)B  3)B  4)B  5)C  6)D  7)E  8)A  9)B  10)A \n'
                                           '11)C  12)D  13)D  14)C  15)B  16)A  17)E  18)C 19)B 20)E')
     if message.text == '/el15':
-        bot.send_message(message.chat.id, 'Вариант 13\n''1)B  2)D  3)C  4)D  5)D  6)E  7)E  8)C  9)B  10)E \n'
+        bot.send_message(message.chat.id, 'Вариант 15\n''1)B  2)D  3)C  4)D  5)D  6)E  7)E  8)C  9)B  10)E \n'
                                           '11)B  12)D  13)A  14)D  15)B  16)B  17)E  18)C 19)E 20)D')
     if message.text == '/el13':
-        bot.send_message(message.chat.id, 'Вариант 14\n''1)B  2)A  3)E  4)C  5)B  6)D  7)D  8)E  9)A  10)B \n'
+        bot.send_message(message.chat.id, 'Вариант 13\n''1)B  2)A  3)E  4)C  5)B  6)D  7)D  8)E  9)A  10)B \n'
                                           '11)D  12)E  13)C  14)B  15)C  16)E  17)E  18)D 19)E 20)E')
     if message.text == '/el14':
-        bot.send_message(message.chat.id, 'Вариант 15\n''1)C  2)E  3)E  4)D  5)B  6)C  7)B  8)A  9)B  10)B \n'
+        bot.send_message(message.chat.id, 'Вариант 14\n''1)C  2)E  3)E  4)D  5)B  6)C  7)B  8)A  9)B  10)B \n'
                                           '11)C  12)B  13)C  14)C  15)A  16)D  17)A  18)C 19)D 20)E')
     if message.text == '/el16':
         bot.send_message(message.chat.id, 'Вариант 16\n''1)E  2)C  3)B  4)D  5)D  6)E  7)A  8)B  9)D  10)E \n'
