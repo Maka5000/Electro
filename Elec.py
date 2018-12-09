@@ -37,8 +37,8 @@ def elec(message):
         bot.send_message(message.chat.id, 'Вариант 6\n''1)D  2)B  3)A  4)E  5)E  6)B  7)B  8)B  9)C  10)D \n'
                                           '11)E  12)A  13)B  14)A  15)C  16)D  17)A  18)B 19)C 20)A')
     if message.text == '/el7':
-        bot.send_message(message.chat.id, 'Вариант 7\n''1)B  2)B  3)A  4)B  5)C  6)E  7)C  8)B  9)D  10)D \n'
-                                          '11)D  12)A  13)A  14)B  15)E  16)E  17)A  18)C 19)B 20)D')
+        bot.send_message(message.chat.id, 'Вариант 7\n''1)B  2)D  3)E  4)C  5)B  6)A  7)E  8)C  9)B  10)D \n'
+                                          '11)D  12)E  13)A  14)B  15)D  16)C  17)A  18)A 19)C 20)E')
     if message.text == '/el8':
         bot.send_message(message.chat.id, 'Вариант 8\n''1)A  2)E  3)C  4)B  5)C  6)E  7)E  8)E  9)E  10)A \n'
                                           '11)B  12)A  13)B  14)B  15)C  16)B  17)D  18)E 19)D 20)D')
